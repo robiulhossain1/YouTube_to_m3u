@@ -2,10 +2,10 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Ekattor TV Live | YTLIVE NEW | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+Ekattor TV Live | YTLIVE GITHUB | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
 https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
 
-Gazi TV Live | YTLIVE NEW | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVYTLIVE GITHUBdeshLogo.png/220px-GTVYTLIVE GITHUBdeshLogo.png |
+Gazi TV Live | YTLIVE GITHUB | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVYTLIVE GITHUBdeshLogo.png/220px-GTVYTLIVE GITHUBdeshLogo.png |
 https://www.youtube.com/@GTVonline/live
 
 Somoy TV | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
