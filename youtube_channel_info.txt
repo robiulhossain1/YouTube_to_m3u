@@ -2,13 +2,13 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Ekattor TV Live | YTLIVE GITHUB | https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/1d8f4e21-cb22-42e8-a02c-d138e4f30266/9f818c01-ee22-4a4d-8858-32f5be1ce97f.png?width=300 |
+Ekattor TV HD | YTLIVE GITHUB | https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png |
 https://www.youtube.com/EkattorTelevision/live
 
-Gazi TV Live | YTLIVE GITHUB | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVYTLIVE GITHUBdeshLogo.png/220px-GTVYTLIVE GITHUBdeshLogo.png |
+Gazi TV HD | YTLIVE GITHUB | https://yt3.googleusercontent.com/ytc/AIdro_mEBjTkCLmUVt8i245RJKEW3Ch7gH9XVe4OGPKw=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@GTVonline/live
 
-Somoy TV | YTLIVE GITHUB | https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png |
+Somoy TV HD | YTLIVE GITHUB | https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png |
 https://www.youtube.com/@somoynews360/live
 
 RTV HD | YTLIVE GITHUB | https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png |
@@ -17,13 +17,13 @@ https://www.youtube.com/@RtvNews/live
 Jamuna TV | YTLIVE GITHUB | https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png |
 https://www.youtube.com/@JamunaTVbd/live
 
-Channel 24 | YTLIVE GITHUB | https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png |
+Channel 24 HD | YTLIVE GITHUB | https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png |
 https://www.youtube.com/@channel24digital/live
 
-Ekhon TV | YTLIVE GITHUB | https://images.toffeelive.com/images/program/274186/logo/240x240/mobile_logo_177557001706616684.png |
+Ekhon TV HD | YTLIVE GITHUB | https://images.toffeelive.com/images/program/274186/logo/240x240/mobile_logo_177557001706616684.png |
 https://www.youtube.com/@ekhontv/live
 
-Banglavision | YTLIVE GITHUB | https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png |
+Banglavision HD | YTLIVE GITHUB | https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png |
 https://www.youtube.com/@banglavisionlive/live
 
 Independent HD | YTLIVE GITHUB | https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png |
@@ -35,16 +35,16 @@ https://www.youtube.com/@ChanneliNews/live
 NTV | YTLIVE GITHUB | https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png |
 https://www.youtube.com/@NTVDigitalLive/live
 
-ATN News | YTLIVE GITHUB | https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png |
+ATN News HD | YTLIVE GITHUB | https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png |
 https://www.youtube.com/@atnnewsltd/live
 
-DBC News | YTLIVE GITHUB | https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png |
+DBC News HD | YTLIVE GITHUB | https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png |
 https://www.youtube.com/@dbcnewstv/live
 
-SATV | YTLIVE GITHUB | https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d40e8576-cc38-494c-bca6-b732fe9a95a5/bb73b3db-8be1-4ba5-b34c-2bf55d7a6a14.png?width=300 |
+SATV HD | YTLIVE GITHUB | https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d40e8576-cc38-494c-bca6-b732fe9a95a5/bb73b3db-8be1-4ba5-b34c-2bf55d7a6a14.png?width=300 |
 https://www.youtube.com/@satvbd/live
 
-Nexus TV | YTLIVE GITHUB | https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png?width=300 |
+Nexus TV HD | YTLIVE GITHUB | https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png?width=300 |
 https://www.youtube.com/@NexusTelevisionLive/live
 
 News 24 | YTLIVE GITHUB | https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png |
@@ -65,16 +65,16 @@ https://www.youtube.com/@PTVHomeEntertainment/live
 Zee 24 Ghanta | YTLIVE GITHUB | https://yt3.googleusercontent.com/ii6es9vZNnm8vfHkuaobCkiO2-bc6eY9krxHdpWe4BZ7yFt4pltv_CusbWkmc2YKay9sz2A8Mhk=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@Zee24Ghanta/live
 
-Nat Geo WILD | YTLIVE GITHUB | https://deadline.com/wp-content/uploads/2018/01/nat-geo-wild-logo-featured.jpg?w=621 |
+Nat Geo WILD | YTLIVE GITHUB | https://images.toffeelive.com/images/program/18837/logo/240x240/mobile_logo_951347001683805257.png |
 https://www.youtube.com/@NatGeoWild/live
 
-Zee News | YTLIVE GITHUB | https://yt3.googleusercontent.com/vZFILuFswtjUIU5oRCc79rxRdML5A_c-D_6AdvgAAd0hqSrJihyJFkT_CTSjYwSrHgiPAAozebY=s900-c-k-c0x00ffffff-no-rj |
+Zee News | YTLIVE GITHUB | https://images.toffeelive.com/images/program/336/logo/240x240/mobile_logo_740569001675858107.png |
 https://www.youtube.com/@zeenews/live
 
-Madani Channel Bangla | YTLIVE GITHUB | https://yt3.googleusercontent.com/vft1vwAGHNrGPveT_bXDM2R617y_EPfn2vJR52F-mUqn_d7yKtORU5m4O41htXhlOwD9gEbUwWQ=s900-c-k-c0x00ffffff-no-rj |
+Madani Channel Bangla HD | YTLIVE GITHUB | https://yt3.googleusercontent.com/vft1vwAGHNrGPveT_bXDM2R617y_EPfn2vJR52F-mUqn_d7yKtORU5m4O41htXhlOwD9gEbUwWQ=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@MadaniChannelBanglaLive/live
 
-Aljazeera HD | YTLIVE GITHUB | https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg |
+Aljazeera HD | YTLIVE GITHUB | https://images.toffeelive.com/images/program/234/logo/240x240/mobile_logo_496491001655891051.png |
 https://www.youtube.com/@aljazeeraenglish/live
 
 Geo News | YTLIVE GITHUB | https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/c6/89/d6c6892f-9734-0dea-bec5-8523200b654d/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/1200x630wa.png |
