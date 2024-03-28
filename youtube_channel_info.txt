@@ -2,124 +2,62 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Ekattor TV Live | YTLIVE GITHUB | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
-https://www.youtube.com/channel/UCtqvtAVmad5zywaziN6CbfA/live
+Ekattor TV Live | YTLIVE NEW | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
+https://www.youtube.com/channel/UCat88i6_rELqI_prwvjspRA/live
 
-Gazi TV Live | YTLIVE GITHUB | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVYTLIVE GITHUBdeshLogo.png/220px-GTVYTLIVE GITHUBdeshLogo.png |
+Gazi TV Live | YTLIVE NEW | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVYTLIVE GITHUBdeshLogo.png/220px-GTVYTLIVE GITHUBdeshLogo.png |
 https://www.youtube.com/@GTVonline/live
 
-Somoy TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+Somoy TV | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@somoynews360/live
 
-RTV HD | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+RTV HD | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@RtvNews/live
 
-Jamuna TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+Jamuna TV | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@JamunaTVbd/live
 
-Channel 24 | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+Channel 24 | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@channel24digital/live
 
-Ekhon TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+Ekhon TV | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@ekhontv/live
 
-Banglavision | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+Banglavision | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@banglavisionlive/live
 
-Independent HD | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+Independent HD | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@IndependentTelevision/live
 
-Channel i HD | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+Channel i HD | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@ChanneliNews/live
 
-NTV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+NTV | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@NTVDigitalLive/live
 
-ATN News | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+ATN News | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@atnnewsltd/live
 
-DBC News | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+DBC News | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@dbcnewstv/live
 
-SATV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+SATV | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@satvbd/live
 
-Nexus TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+Nexus TV | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@NexusTelevisionLive/live
 
-News 24 | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+News 24 | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@NEWS24TV/live
 
-DESH TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+DESH TV | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@livedeshtv/live
 
-Makkah TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+Makkah TV | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@AlQuranHD/live
 
-Madinah TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+Madinah TV | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@akhomslm/live
 
-PTV HOME HD | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@PTVHomeEntertainment/live~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
-
-
-Ekattor TV Live | YTLIVE GITHUB | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
-https://www.youtube.com/@EkattorTelevision/live
-
-Gazi TV Live | YTLIVE GITHUB | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVYTLIVE GITHUBdeshLogo.png/220px-GTVYTLIVE GITHUBdeshLogo.png |
-https://www.youtube.com/@GTVonline/live
-
-Somoy TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@somoynews360/live
-
-RTV HD | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@RtvNews/live
-
-Jamuna TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@JamunaTVbd/live
-
-Channel 24 | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@channel24digital/live
-
-Ekhon TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@ekhontv/live
-
-Banglavision | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@banglavisionlive/live
-
-Independent HD | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@IndependentTelevision/live
-
-Channel i HD | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@ChanneliNews/live
-
-NTV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@NTVDigitalLive/live
-
-ATN News | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@atnnewsltd/live
-
-DBC News | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@dbcnewstv/live
-
-SATV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@satvbd/live
-
-Nexus TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@NexusTelevisionLive/live
-
-News 24 | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@NEWS24TV/live
-
-DESH TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@livedeshtv/live
-
-Makkah TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@AlQuranHD/live
-
-Madinah TV | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
-https://www.youtube.com/@akhomslm/live
-
-PTV HOME HD | YTLIVE GITHUB | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
+PTV HOME HD | YTLIVE GITHUB | https://yt3.googleusercontent.com/2zkWNTcZBxfR512fz0j5Gx07a9qbeeBTaNUnNuiXsmoO8nwudwA0UphktSP3WPCM62BXSdJsM8c=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@PTVHomeEntertainment/live
