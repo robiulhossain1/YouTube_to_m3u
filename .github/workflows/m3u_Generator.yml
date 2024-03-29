@@ -5,7 +5,7 @@ name: M3U generator
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '2 0 * * *'
+    - cron: '0/30 * * * *'
 
   pull_request:
     branches:
