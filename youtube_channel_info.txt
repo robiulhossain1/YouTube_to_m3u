@@ -2,100 +2,100 @@
 ~~ FORMAT: <channel name> - <group name> - <logo> - <tvg-id>
 
 
-Ekattor TV HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png -
+Ekattor TV HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png
 https://www.youtube.com/EkattorTelevision/live
 
-Gazi TV HD - YTLIVE GITHUB | ARAFAT - https://yt3.googleusercontent.com/ytc/AIdro_mEBjTkCLmUVt8i245RJKEW3Ch7gH9XVe4OGPKw=s900-c-k-c0x00ffffff-no-rj -
+Gazi TV HD - YTLIVE GITHUB | ARAFAT - https://yt3.googleusercontent.com/ytc/AIdro_mEBjTkCLmUVt8i245RJKEW3Ch7gH9XVe4OGPKw=s900-c-k-c0x00ffffff-no-rj
 https://www.youtube.com/@GTVonline/live
 
-Somoy TV HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png -
+Somoy TV HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png
 https://www.youtube.com/@somoynews360/live
 
-RTV HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png -
+RTV HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png
 https://www.youtube.com/@RtvNews/live
 
-Jamuna TV - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png -
+Jamuna TV - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png
 https://www.youtube.com/@JamunaTVbd/live
 
-Channel 24 HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png -
+Channel 24 HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png
 https://www.youtube.com/@channel24digital/live
 
-Ekhon TV HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/274186/logo/240x240/mobile_logo_177557001706616684.png -
+Ekhon TV HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/274186/logo/240x240/mobile_logo_177557001706616684.png
 https://www.youtube.com/@ekhontv/live
 
-Banglavision HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png -
+Banglavision HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png
 https://www.youtube.com/@banglavisionlive/live
 
-Independent HD - YTLIVE GITHUB | ARAFAT - https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png -
+Independent HD - YTLIVE GITHUB | ARAFAT - https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png
 https://www.youtube.com/@IndependentTelevision/live
 
-Channel i HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png -
+Channel i HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png
 https://www.youtube.com/@ChanneliNews/live
 
-NTV - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png -
+NTV - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png
 https://www.youtube.com/@NTVDigitalLive/live
 
-ATN News HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png -
+ATN News HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png
 https://www.youtube.com/@atnnewsltd/live
 
-DBC News HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png -
+DBC News HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png
 https://www.youtube.com/@dbcnewstv/live
 
-SATV HD - YTLIVE GITHUB | ARAFAT - https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d40e8576-cc38-494c-bca6-b732fe9a95a5/bb73b3db-8be1-4ba5-b34c-2bf55d7a6a14.png?width=300 -
+SATV HD - YTLIVE GITHUB | ARAFAT - https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d40e8576-cc38-494c-bca6-b732fe9a95a5/bb73b3db-8be1-4ba5-b34c-2bf55d7a6a14.png?width=300
 https://www.youtube.com/@satvbd/live
 
-Nexus TV HD - YTLIVE GITHUB | ARAFAT - https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png?width=300 -
+Nexus TV HD - YTLIVE GITHUB | ARAFAT - https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a459d0db-8ef7-45d0-8e24-3422faceef4d/d301f2a8-e824-4ca4-8607-5a5c775b8d4f.png?width=300
 https://www.youtube.com/@NexusTelevisionLive/live
 
-News 24 - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png -
+News 24 - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png
 https://www.youtube.com/@NEWS24TV/live
 
-DESH TV - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png -
+DESH TV - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png
 https://www.youtube.com/@livedeshtv/live
 
-Makkah TV - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/613/logo/240x240/mobile_logo_192652001655891524.png -
+Makkah TV - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/613/logo/240x240/mobile_logo_192652001655891524.png
 https://www.youtube.com/@AlQuranHD/live
 
-Madinah TV - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/610/logo/240x240/mobile_logo_677105001655891492.png -
+Madinah TV - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/610/logo/240x240/mobile_logo_677105001655891492.png
 https://www.youtube.com/@akhomslm/live
 
-PTV HOME HD - YTLIVE GITHUB | ARAFAT - https://ptv.com.pk/user/assets/images/ptvhomelogo2023.png -
+PTV HOME HD - YTLIVE GITHUB | ARAFAT - https://ptv.com.pk/user/assets/images/ptvhomelogo2023.png
 https://www.youtube.com/@PTVHomeEntertainment/live
 
-Zee 24 Ghanta - YTLIVE GITHUB | ARAFAT - https://yt3.googleusercontent.com/ii6es9vZNnm8vfHkuaobCkiO2-bc6eY9krxHdpWe4BZ7yFt4pltv_CusbWkmc2YKay9sz2A8Mhk=s900-c-k-c0x00ffffff-no-rj -
+Zee 24 Ghanta - YTLIVE GITHUB | ARAFAT - https://yt3.googleusercontent.com/ii6es9vZNnm8vfHkuaobCkiO2-bc6eY9krxHdpWe4BZ7yFt4pltv_CusbWkmc2YKay9sz2A8Mhk=s900-c-k-c0x00ffffff-no-rj
 https://www.youtube.com/@Zee24Ghanta/live
 
-Nat Geo WILD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/18837/logo/240x240/mobile_logo_951347001683805257.png -
+Nat Geo WILD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/18837/logo/240x240/mobile_logo_951347001683805257.png
 https://www.youtube.com/@NatGeoWild/live
 
-Zee News - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/336/logo/240x240/mobile_logo_740569001675858107.png -
+Zee News - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/336/logo/240x240/mobile_logo_740569001675858107.png
 https://www.youtube.com/@zeenews/live
 
-Madani Channel Bangla HD - YTLIVE GITHUB | ARAFAT - https://yt3.googleusercontent.com/vft1vwAGHNrGPveT_bXDM2R617y_EPfn2vJR52F-mUqn_d7yKtORU5m4O41htXhlOwD9gEbUwWQ=s900-c-k-c0x00ffffff-no-rj -
+Madani Channel Bangla HD - YTLIVE GITHUB | ARAFAT - https://yt3.googleusercontent.com/vft1vwAGHNrGPveT_bXDM2R617y_EPfn2vJR52F-mUqn_d7yKtORU5m4O41htXhlOwD9gEbUwWQ=s900-c-k-c0x00ffffff-no-rj
 https://www.youtube.com/@MadaniChannelBanglaLive/live
 
-Aljazeera HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/234/logo/240x240/mobile_logo_496491001655891051.png -
+Aljazeera HD - YTLIVE GITHUB | ARAFAT - https://images.toffeelive.com/images/program/234/logo/240x240/mobile_logo_496491001655891051.png
 https://www.youtube.com/@aljazeeraenglish/live
 
-Geo News - YTLIVE GITHUB | ARAFAT - https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/c6/89/d6c6892f-9734-0dea-bec5-8523200b654d/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/1200x630wa.png -
+Geo News - YTLIVE GITHUB | ARAFAT - https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d6/c6/89/d6c6892f-9734-0dea-bec5-8523200b654d/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/1200x630wa.png
 https://www.youtube.com/@geonews/live
 
-TV9 Bangla - YTLIVE GITHUB | ARAFAT - https://yt3.googleusercontent.com/N8brWVICFyJ1QwN8aFc_ctuFvTOpJ2ng1HM4dZB3T5QE95GYQHipqW3Omi003UDlYULckDip=s900-c-k-c0x00ffffff-no-rj -
+TV9 Bangla - YTLIVE GITHUB | ARAFAT - https://yt3.googleusercontent.com/N8brWVICFyJ1QwN8aFc_ctuFvTOpJ2ng1HM4dZB3T5QE95GYQHipqW3Omi003UDlYULckDip=s900-c-k-c0x00ffffff-no-rj
 https://www.youtube.com/@TV9BanglaLive/live
 
-News 18 Bangla - YTLIVE GITHUB | ARAFAT - https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg -
+News 18 Bangla - YTLIVE GITHUB | ARAFAT - https://upload.wikimedia.org/wikipedia/commons/6/67/News18_Bangla_logo.jpeg
 https://www.youtube.com/@News18Bangla/live
 
-Music LIVE - YTLIVE GITHUB | ARAFAT - https://img.freepik.com/free-photo/abstract-watercolor-guitar-exploding-with-colorful-motion-generated-by-ai_188544-19725.jpg -
+Music LIVE - YTLIVE GITHUB | ARAFAT - https://img.freepik.com/free-photo/abstract-watercolor-guitar-exploding-with-colorful-motion-generated-by-ai_188544-19725.jpg
 https://www.youtube.com/@IshtarMusic/live
 
-4K LIVE 1 - YTLIVE GITHUB | ARAFAT - https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg -
+4K LIVE 1 - YTLIVE GITHUB | ARAFAT - https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg
 https://www.youtube.com/@12KScenicRelaxation/live
 
-4K LIVE 2 - YTLIVE GITHUB | ARAFAT - https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg -
+4K LIVE 2 - YTLIVE GITHUB | ARAFAT - https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg
 https://www.youtube.com/@ScenicRelaxation8K/live
 
-4K LIVE 3 - YTLIVE GITHUB | ARAFAT - https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg -
+4K LIVE 3 - YTLIVE GITHUB | ARAFAT - https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg
 https://www.youtube.com/@worldtour4k1403/live
 
 BCB Live - YTLIVE GITHUB | ARAFAT - https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Bangladesh_Cricket_Board_Logo.svg/1200px-Bangladesh_Cricket_Board_Logo.svg.png
