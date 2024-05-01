@@ -54,7 +54,7 @@ Nexus TV HD | YTLIVE GITHUB - ARAFAT | https://cdn1.bioscopelive.com/c3c98d1b-c5
 https://www.youtube.com/@NexusTelevisionLive/live
 
 News 24 | YTLIVE GITHUB - ARAFAT | https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png |
-https://www.youtube.com/@NEWS24TV/live
+https://www.youtube.com/@dailynews24x7daily/live
 
 DESH TV | YTLIVE GITHUB - ARAFAT | https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png |
 https://www.youtube.com/@livedeshtv/live
@@ -96,7 +96,7 @@ Music LIVE | YTLIVE GITHUB - ARAFAT | https://img.freepik.com/free-photo/abstrac
 https://www.youtube.com/@IshtarMusic/live
 
 4K LIVE 1 | YTLIVE GITHUB - ARAFAT | https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg |
-https://www.youtube.com/@12KScenicRelaxation/live
+https://www.youtube.com/@animals-world
 
 4K LIVE 2 | YTLIVE GITHUB - ARAFAT | https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg |
 https://www.youtube.com/@ScenicRelaxation8K/live
@@ -104,8 +104,27 @@ https://www.youtube.com/@ScenicRelaxation8K/live
 4K LIVE 3 | YTLIVE GITHUB - ARAFAT | https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg |
 https://www.youtube.com/@worldtour4k1403/live
 
+4K LIVE 4 | YTLIVE GITHUB - ARAFAT | https://i.ytimg.com/vi/KKnmBL0JkXI/maxresdefault.jpg |
+https://www.youtube.com/@4krelaxing-wildanimals/live
+
 KOLKATA TV | YTLIVE GITHUB - ARAFAT | https://yt3.googleusercontent.com/KKP-eCQ5hzerRSFazw-yC5ZWskKmYTf67l36aS151TrrFNmK2ko9dUty46F7ekC2OIUaVk-KIw=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@KOLKATATV/live
 
 Calcutta TV | YTLIVE GITHUB - ARAFAT | https://yt3.googleusercontent.com/lE2N0oyx39a-_TZYlkaW4A1kMySqmxvu5VolBNCv4LxqE8QrzDkx8IUtZxY27WRIdhiU-LvSIMc=s900-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/@calcuttanews/live
+
+ABP ANANDA | YTLIVE GITHUB - ARAFAT | https://static.vidgyor.com/player/account/abp/img/ABP-Ananda.png |
+https://www.youtube.com/@abpanandatv/live
+
+Jamuna TV Plus | YTLIVE GITHUB - ARAFAT | https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png |
+https://www.youtube.com/@jamunatvplus/live
+
+FRANCE 24 | YTLIVE GITHUB - ARAFAT | https://yt3.googleusercontent.com/ytc/AIdro_k9aU_SRhYAWJjQ6AO7uzQDZE5mb7gmv4synLrC7hEWGjE=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/@FRANCE24/live
+
+ABC News | YTLIVE GITHUB - ARAFAT | https://yt3.googleusercontent.com/OOT0eq8LoW8V3PMURGYuk0kRSgRGP7EsuGZoODhHBcg1jCB1qkuIAxS-XGnjKX9Q6rf-WKTvkQ=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/@ABCNews/live
+
+DW News | YTLIVE GITHUB - ARAFAT | https://yt3.googleusercontent.com/ytc/AIdro_my-wkI-EixtX3Qej_4pEo8tn13DB1aI6elK7Q4yyZZd4pl=s176-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/@dwnews/live
+
